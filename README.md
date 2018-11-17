@@ -2,7 +2,7 @@
 
 ![Preview video capture](./preview.gif)
 
-[Video screen capture](https://www.youtube.com/watch?v=8huVMoQQ2Ww)
+[Video screen capture](https://www.youtube.com/watch?v=wzBNRHkd60c)
 
 After seeing the Python script https://github.com/metatoaster/kanna, I wanted to make something usable outside a terminal (because Windows' terminal can't be wider than the screen that is currently on), so I've made this thing based on the metatoaster's script in C# with .NET WinForms.
 
